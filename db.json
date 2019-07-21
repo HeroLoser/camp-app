@@ -7,7 +7,7 @@
 	],
 
 	"camp": [
-		{"id":1,"title":"title","location":"description","image":"img1"},
+		{"id":1,"title":"Ciwidey Valley Camping","location":"Ciwidey, Bandung, West Java","image":"https://www.travelblog.id/wp-content/uploads/2019/04/Fasilitas-Ciwidey-Valley-1-1.jpg"},
 		{"id":2,"title":"title2","location":"description2","image":"img2"},
 		{"id":3,"title":"title3","location":"description3","image":"img3"},
 		{"id":4,"title":"title4","location":"description4","image":"img4"},
