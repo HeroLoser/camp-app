@@ -8,7 +8,7 @@
 
 	"camp": [
 		{"id":1,"title":"Ciwidey Valley Camping","location":"Ciwidey, Bandung, West Java","image":"https://www.travelblog.id/wp-content/uploads/2019/04/Fasilitas-Ciwidey-Valley-1-1.jpg","url":"https://www.google.com/maps/search/?api=1&query=ciwidey+camping+valley"},
-		{"id":2,"title":"Ranca Umpas Camping Ground","location":"Ranca Upas, Bandung, West java","image":"https://www.travelblog.id/wp-content/uploads/2019/04/5903536918_b832dde343_o.jpg","url":"https://www.google.com/maps/search/?api=1&query=ranca+upas+camping+ground"},
+		{"id":2,"title":"Ranca Upas Camping Ground","location":"Ranca Upas, Bandung, West java","image":"https://www.travelblog.id/wp-content/uploads/2019/04/5903536918_b832dde343_o.jpg","url":"https://www.google.com/maps/search/?api=1&query=ranca+upas+camping+ground"},
 		{"id":3,"title":"Tourism Park Kaliurang","location":"Pakem, Sleman, Yogyakarta","image":"https://www.travelblog.id/wp-content/uploads/2019/04/camping-ground-1024x768.jpg","url":"https://www.google.com/maps/search/?api=1&query=taman+wisata+kaliurang"},
 		{"id":4,"title":"Wanagama Forest","location":"Playen, Gunung Kidul, Yogyakarta","image":"https://www.travelblog.id/wp-content/uploads/2019/04/6351393388_acc05935e8_o.jpg","url":"https://www.google.com/maps/search/?api=1&query=museum+kayu+wanagama"},
 		{"id":5,"title":"Gunung Sibayak Kapal Camping Ground","location":"Gunung Sibayak, Medan","image":"https://pospapua.com/wp-content/uploads/2019/06/Gunung-Sibayak-Medan.jpg","url":"https://www.google.com/maps/search/?api=1&query=camping+ground+gunung+sibayak"}
