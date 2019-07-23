@@ -11,7 +11,7 @@
 		{"id":2,"title":"Ranca Upas Camping Ground","location":"Ranca Upas, Bandung, West java","image":"https://www.travelblog.id/wp-content/uploads/2019/04/5903536918_b832dde343_o.jpg","url":"https://www.google.com/maps/search/?api=1&query=ranca+upas+camping+ground"},
 		{"id":3,"title":"Tourism Park Kaliurang","location":"Pakem, Sleman, Yogyakarta","image":"https://www.travelblog.id/wp-content/uploads/2019/04/camping-ground-1024x768.jpg","url":"https://www.google.com/maps/search/?api=1&query=taman+wisata+kaliurang"},
 		{"id":4,"title":"Wanagama Forest","location":"Playen, Gunung Kidul, Yogyakarta","image":"https://www.travelblog.id/wp-content/uploads/2019/04/6351393388_acc05935e8_o.jpg","url":"https://www.google.com/maps/search/?api=1&query=museum+kayu+wanagama"},
-		{"id":5,"title":"Gunung Sibayak Kapal Camping Ground","location":"Gunung Sibayak, Medan","image":"https://pospapua.com/wp-content/uploads/2019/06/Gunung-Sibayak-Medan.jpg","url":"https://www.google.com/maps/search/?api=1&query=camping+ground+gunung+sibayak"}
+		{"id":5,"title":"Gunung Sibayak Camping Ground","location":"Gunung Sibayak, Medan","image":"https://pospapua.com/wp-content/uploads/2019/06/Gunung-Sibayak-Medan.jpg","url":"https://www.google.com/maps/search/?api=1&query=camping+ground+gunung+sibayak"}
 	],
 
 	"guide": [
@@ -43,7 +43,7 @@
 		 "description_t":"It's important to keep in mind that tents on their own are usually not waterproof. This is where the rain-fly comes in. A rain-fly is an additional piece you set overtop the tent. There should be something along the line of latches on the roof of your tent to secure the rain-fly in place. Even if you're pretty sure there will be no rain, it doesn't hurt to install it nonetheless. It will ensure all of your tent equipment stays in one place, and prepare you for unforeseen rain showers.\n\n\n",
 		 "image_t":"https://www.wikihow.com/images/thumb/7/72/Assemble-a-Tent-Step-6.jpg/aid97498-v4-728px-Assemble-a-Tent-Step-6.jpg.webp"},
 		
-		{"id":7,"title":"Move your things into the tent.",
+		{"id":7,"title":"6. Move your things into the tent.",
 		 "description_t":" Once the tent is set up, you can equip the interior. Because there isn't usually much space in a tent, you should decide which things are alright to store outside, and which things should be kept inside. Sleeping bags are an obvious must in your tent. Crates and hard-cased storage can be left outside.\nIf there's a risk of bears in the area you're camping, it is strongly recommended you keep food out of the tent. If a bear comes, you don't want him rummaging into your tent because he picked up the scent of granola.\n\n\n",
 		 "image_t":"https://www.wikihow.com/images/thumb/b/b4/Assemble-a-Tent-Step-7.jpg/aid97498-v4-728px-Assemble-a-Tent-Step-7.jpg.webp"},
 		
